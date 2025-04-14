@@ -1,0 +1,5 @@
+*.tif
+datasets/solar_potential/World_PVOUT_GISdata_LTAy_AvgDailyTotals_GlobalSolarAtlas-v2_GEOTIFF/World_PVOUT_GISdata_LTAy_DailySum_GlobalSolarAtlas_GEOTIFF/PVOUT.tif.pdf
+datasets/solar_potential/World_PVOUT_GISdata_LTAy_AvgDailyTotals_GlobalSolarAtlas-v2_GEOTIFF/World_PVOUT_GISdata_LTAy_DailySum_GlobalSolarAtlas_GEOTIFF/PVOUT.tif.xml
+datasets/World_Temp_geotiff/data/TEMP.tif.xml
+datasets/World_Temp_geotiff/data/TEMP.tif.xml
