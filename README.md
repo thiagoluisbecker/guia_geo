@@ -25,10 +25,8 @@ Abra os notebooks na ordem indicada e execute cada célula para reproduzir os ex
 ## Estrutura
 
 ```
-datasets/                 # Dados de apoio
-2geo_data_types.ipynb     # Introdução a formatos geoespaciais
+datasets/                 
+2geo_data_types.ipynb     # Introdução a dados geoespaciais
 3Processing.ipynb         # Processamento e pré-processamento
 4Vis_v.ipynb              # Visualizações geoespaciais
 ```
-
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request para sugerir melhorias.
