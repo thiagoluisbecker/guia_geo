@@ -4,7 +4,7 @@ Este repositório contém um conjunto de notebooks voltados para quem deseja apr
 
 ## Como rodar no Binder
 
-1. Clique no badge abaixo ou acesse `[https://mybinder.org/v2/gh/<usuario>/<repositorio>/HEAD](https://mybinder.org/v2/gh/thiagoluisbecker/guia_geo/HEAD)`.
+1. Acesse esse link [aqui](https://mybinder.org/v2/gh/thiagoluisbecker/guia_geo/HEAD).
 2. Aguarde a construção da imagem. Esse processo pode levar alguns minutos na primeira execução.
 3. Quando o Jupyter Notebook abrir, navegue até o notebook desejado.
 4. Execute as células normalmente para reproduzir os exemplos.
