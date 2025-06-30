@@ -2,6 +2,12 @@
 
 Este repositório contém um conjunto de notebooks voltados para quem deseja aprender a manipular, processar e visualizar informações geoespaciais com Python.
 
+## Visualização dos notebooks do Guia 
+- [Tipos de Dados Geoespaciais](https://thiagoluisbecker.github.io/guia_geo/2geo_data_types.html)
+- [Processamento](https://thiagoluisbecker.github.io/guia_geo/3Processing.html)
+- [Visualizações Interativas](https://thiagoluisbecker.github.io/guia_geo/4Vis_v.html)
+
+
 ## Como rodar no Binder
 
 1. Acesse esse link [aqui](https://mybinder.org/v2/gh/thiagoluisbecker/guia_geo/HEAD).
@@ -24,10 +30,7 @@ Este repositório contém um conjunto de notebooks voltados para quem deseja apr
    ```
 4. Abra os arquivos na ordem indicada e execute cada célula.
 
-## Visualizações Online
-- [Tipos de Dados Geoespaciais](https://thiagoluisbecker.github.io/guia_geo/2geo_data_types.html)
-- [Processamento](https://thiagoluisbecker.github.io/guia_geo/3Processing.html)
-- [Visualizações Interativas](https://thiagoluisbecker.github.io/guia_geo/4Vis_v.html)
+
 
 ## Notebooks
 1. **Tipos de Dados Geoespaciais – `2geo_data_types.ipynb`**
