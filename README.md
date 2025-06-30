@@ -24,6 +24,11 @@ Este repositório contém um conjunto de notebooks voltados para quem deseja apr
    ```
 4. Abra os arquivos na ordem indicada e execute cada célula.
 
+## Visualizações Online
+- [Tipos de Dados Geoespaciais](https://seu-usuario.github.io/seu-repositorio/2geo_data_types.html)
+- [Processamento](https://seu-usuario.github.io/seu-repositorio/3Processing.html)
+- [Visualizações Interativas](https://seu-usuario.github.io/seu-repositorio/4Vis_v.html)
+
 ## Notebooks
 1. **Tipos de Dados Geoespaciais – `2geo_data_types.ipynb`**
    Introdução aos formatos vetoriais e raster, exemplos com `geopandas`, `shapely` e `rasterio`.
