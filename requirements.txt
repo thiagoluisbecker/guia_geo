@@ -9,3 +9,4 @@ numpy
 geopy
 shapely
 rasterstats
+harversine
