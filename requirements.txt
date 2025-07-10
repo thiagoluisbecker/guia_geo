@@ -1,0 +1,12 @@
+notebook
+ipykernel
+gdown
+rasterio
+geopandas
+folium
+matplotlib
+numpy
+geopy
+shapely
+rasterstats
+haversine
